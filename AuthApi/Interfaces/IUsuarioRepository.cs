@@ -5,8 +5,8 @@ namespace AuthApi.Interfaces
 {
     public interface IUsuarioRepository
     {
-        Task<Usuario> GetByEmailAsync(string email);
+        Task<Usuario?> GetByEmailAsync(string email);
         Task<Usuario> AddAsync(Usuario usuario);
-        Task<List<UsuarioListadoDto>> GetAllUsuarioAsync();
+        Task<List<UsuarioListadoDto>> GetAllUsuariosAsync();
     }
 }

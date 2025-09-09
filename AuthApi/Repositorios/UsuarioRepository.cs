@@ -20,7 +20,7 @@ namespace AuthApi.Repositorios
                 .FirstOrDefaultAsync(u => u.Email == email);
         }
 
-        public async Task AddAsync(Usuario usuario)
+        public async Task<Usuario> AddAsync(Usuario usuario)
         {
             _context.Usuarios.Add(usuario);
             await _context.SaveChangesAsync();
