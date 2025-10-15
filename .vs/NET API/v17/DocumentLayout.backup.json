@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ilein\\OneDrive\\Desktop\\AUTHAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6045FE2C-FA52-4CE0-BF4B-F87AC556FE9E}|AuthApi.TestXunit\\AuthApi.TestXunit.csproj|c:\\users\\ilein\\onedrive\\desktop\\authapi\\authapi.testxunit\\usuariorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6045FE2C-FA52-4CE0-BF4B-F87AC556FE9E}|AuthApi.TestXunit\\AuthApi.TestXunit.csproj|solutionrelative:authapi.testxunit\\usuariorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioRepositoryTest.cs",
-              "DocumentMoniker": "C:\\Users\\ilein\\OneDrive\\Desktop\\AUTHAPI\\AuthApi.TestXunit\\UsuarioRepositoryTest.cs",
-              "RelativeDocumentMoniker": "AuthApi.TestXunit\\UsuarioRepositoryTest.cs",
-              "ToolTip": "C:\\Users\\ilein\\OneDrive\\Desktop\\AUTHAPI\\AuthApi.TestXunit\\UsuarioRepositoryTest.cs",
-              "RelativeToolTip": "AuthApi.TestXunit\\UsuarioRepositoryTest.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAqwDcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:46:36.759Z",
-              "EditorCaption": ""
             }
           ]
         }

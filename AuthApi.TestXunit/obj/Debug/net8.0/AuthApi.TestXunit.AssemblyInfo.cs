@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthApi.TestXunit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca2909a0560277bfd30da23fe5135f7db4c11339")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b475c2172d4c1bb5b325d0b6f6614744ae58eda")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthApi.TestXunit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthApi.TestXunit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

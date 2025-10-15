@@ -133,3 +133,5 @@ C:\Users\ilein\OneDrive\Desktop\AUTHAPI\AuthApi.TestXunit\obj\Debug\net8.0\refin
 C:\Users\ilein\OneDrive\Desktop\AUTHAPI\AuthApi.TestXunit\obj\Debug\net8.0\AuthApi.TestXunit.pdb
 C:\Users\ilein\OneDrive\Desktop\AUTHAPI\AuthApi.TestXunit\obj\Debug\net8.0\AuthApi.TestXunit.genruntimeconfig.cache
 C:\Users\ilein\OneDrive\Desktop\AUTHAPI\AuthApi.TestXunit\obj\Debug\net8.0\ref\AuthApi.TestXunit.dll
+C:\Users\ilein\OneDrive\Desktop\AUTHAPI\AuthApi.TestXunit\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\ilein\OneDrive\Desktop\AUTHAPI\AuthApi.TestXunit\bin\Debug\net8.0\Moq.dll

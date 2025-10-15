@@ -77,6 +77,21 @@ namespace AuthApi.TestXunit
             Assert.Equal("Daniela", usuarioGuardado.Nombre);
         }
 
+        [Fact]
+        public async Task GetAllUsuariosAsync_RetornarListaUsuarios()
+        {
+            // Arrange
+            var context = GetInMemoryDbContext();
+            var repo = new UsuarioRepository(context);
+
+            // Act
+            var Lista = await repo.GetAllUsuariosAsync();
+
+            // Assert
+            Assert.NotEmpty(Lista);
+            
+        }
+
 
     }
 }
