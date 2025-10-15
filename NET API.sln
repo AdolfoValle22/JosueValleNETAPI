@@ -5,18 +5,27 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi", "AuthApi\AuthApi.csproj", "{B6787125-ECDA-4F17-9A46-0B8000930DF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi.TestXunit", "AuthApi.TestXunit\AuthApi.TestXunit.csproj", "{6045FE2C-FA52-4CE0-BF4B-F87AC556FE9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B6787125-ECDA-4F17-9A46-0B8000930DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B6787125-ECDA-4F17-9A46-0B8000930DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6787125-ECDA-4F17-9A46-0B8000930DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6787125-ECDA-4F17-9A46-0B8000930DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6045FE2C-FA52-4CE0-BF4B-F87AC556FE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6045FE2C-FA52-4CE0-BF4B-F87AC556FE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6045FE2C-FA52-4CE0-BF4B-F87AC556FE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6045FE2C-FA52-4CE0-BF4B-F87AC556FE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C961BD90-E588-4717-842F-9DD4B142E1AC}
 	EndGlobalSection
 EndGlobal
